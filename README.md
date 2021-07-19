@@ -10,11 +10,14 @@ All data for 9th graders at Thomas High School within the data frame were nulled
   
 ## Results
 Upon running the updated script the account for the academmic dishonesty, we find the follow:
+
   - District-wide, we see a overall slight decrease in average scores and percentage of students passing both tests
+
 ![Original](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA1.PNG)
 ![Updated](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA2.PNG)
 
   - Thomas High's metrics also shifted down slightly when the grades were removed from the equation:
+
 ![Original](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA3.PNG)
 ![Updated](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA4.PNG)
 
@@ -24,14 +27,17 @@ Upon running the updated script the account for the academmic dishonesty, we fin
   - Since the 9th grade scores were nulled, they are no no longer reflected in the graade-by-grade breakdown.  This has no effect on the statistics of the other grades
  
   - Among the schools that spend $630-644 per student, which contains Thomas High, the percentage of students passing both tests fell by 7%.
+ 
 ![Original](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA5.PNG)
 ![Updated](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA6.PNG)
 
   - Among medium-sized schools, which contains Thomas High, the percentage of students passing both tests fell by 6%.
+
 ![Original](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA7.PNG)
 ![Updated](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA8.PNG)
 
   - The effects were not seen as strongly ascorss school types, as there are only two. Nonetheless, the percentage of students passing at Charter Schools (Thomas High is a charter school), dropped by 3%.
+
 ![Original](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA9.PNG)
 ![Updated](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA10.PNG)
 
