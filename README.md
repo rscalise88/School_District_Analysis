@@ -11,7 +11,7 @@ All data for 9th graders at Thomas High School within the data frame were nulled
 ## Results
 Upon running the updated script the account for the academmic dishonesty, we find the follow:
   - District-wide, we see a overall slight decrease in average scores and percentage of students passing both tests
-![Original](https://github.com/rscalise88/School_District_Analysis/Resources/SDA1.PNG)
+![Original](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA1.PNG)
 ![Updated](https://github.com/rscalise88/School_District_Analysis/Resources/SDA2.PNG)
 
   - Thomas High's metrics also shifted down slightly when the grades were removed from the equation:
