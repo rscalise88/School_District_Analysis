@@ -17,7 +17,7 @@ Upon running the updated script the account for the academmic dishonesty, we fin
 ![Original](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA1.PNG)
 ![Updated](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA2.PNG)
 
-  - Thomas High's metrics also shifted down slightly when the grades were removed from the equation:
+  - Thomas High's metrics also shifted down significantly when the grades were removed from the equation:
 
 ![Original](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA3.PNG)
 ![Updated](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA4_2.PNG)
