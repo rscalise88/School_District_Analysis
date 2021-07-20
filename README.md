@@ -5,8 +5,9 @@ Upon discovering that academic dishonesty may have affected the grades at Thomas
 
 All data for 9th graders at Thomas High School within the data frame were nulled with the following blocks of code:
 
-         thomas_9th_new_reading = student_data_df.loc[(student_data_df["grade"] == "9th") & (student_data_df["school_name"] == "Thomas High School"), ["reading_score"]] = "NaN" 
-         thomas_9th_new_math = student_data_df.loc[(student_data_df["grade"] == "9th") & (student_data_df["school_name"] == "Thomas High School"), ["math_score"]] = "NaN" 
+         thomas_9th_new_reading = student_data_df.loc[(student_data_df["grade"] == "9th") & (student_data_df["school_name"] == "Thomas High School"), ["reading_score"]] = float("NaN") 
+         thomas_9th_new_math = student_data_df.loc[(student_data_df["grade"] == "9th") & (student_data_df["school_name"] == "Thomas High School"), ["math_score"]] = float("NaN") 
+
   
 ## Results
 Upon running the updated script the account for the academmic dishonesty, we find the follow:
