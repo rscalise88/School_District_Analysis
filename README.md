@@ -35,6 +35,7 @@ Upon running the updated script the account for the academmic dishonesty, we fin
   - Among medium-sized schools, which contains Thomas High, the percentage of students passing both tests fell by 6%.
 
 ![Original](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA7.PNG)
+
 ![Updated](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA8_2.PNG)
 
   - The effects were not seen as strongly ascorss school types, as there are only two. Nonetheless, the percentage of students passing at Charter Schools (Thomas High is a charter school), dropped by 3%.
