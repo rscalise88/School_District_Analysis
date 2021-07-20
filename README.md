@@ -20,7 +20,7 @@ Upon running the updated script the account for the academmic dishonesty, we fin
   - Thomas High's metrics also shifted down slightly when the grades were removed from the equation:
 
 ![Original](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA3.PNG)
-![Updated](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA4.PNG)
+![Updated](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA4_2.PNG)
 
   - Thomas High's standing in the distrct dropped significantly as a result of the change
     - Once ranked 2nd in the district, this school drops to 8th place due to the drop in overall scores.
@@ -30,17 +30,18 @@ Upon running the updated script the account for the academmic dishonesty, we fin
   - Among the schools that spend $630-644 per student, which contains Thomas High, the percentage of students passing both tests fell by 7%.
  
 ![Original](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA5.PNG)
-![Updated](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA6.PNG)
+![Updated](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA6_2.PNG)
 
   - Among medium-sized schools, which contains Thomas High, the percentage of students passing both tests fell by 6%.
 
 ![Original](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA7.PNG)
-![Updated](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA8.PNG)
+![Updated](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA8_2.PNG)
 
   - The effects were not seen as strongly ascorss school types, as there are only two. Nonetheless, the percentage of students passing at Charter Schools (Thomas High is a charter school), dropped by 3%.
 
 ![Original](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA9.PNG)
-![Updated](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA10.PNG)
+
+![Updated](https://github.com/rscalise88/School_District_Analysis/blob/main/resources/SDA10_2.PNG)
 
 ## Summary 
 In brief: when the district-wide statistics are re-calculated to null all data for 9th-graders at Thomas High School, we see a decline in students who passed both tests for schools that are funded between $630-644, mid-sized schools (those with 1000-2000 students), and Charter Schools.  In addition, Thomas High's overall standing within the district drops signifcantly from 2nd in the disctrict, to 8th.
